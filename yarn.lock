@@ -2126,9 +2126,9 @@ graphql-request@^1.5.0:
   dependencies:
     cross-fetch "1.1.1"
 
-graphql-schema-linter@0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/graphql-schema-linter/-/graphql-schema-linter-0.1.1.tgz#bca091db7c075935764cc798377420dcebc93191"
+graphql-schema-linter@0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/graphql-schema-linter/-/graphql-schema-linter-0.1.2.tgz#91c3fb964b2b16d34139a5b943309cf3e55c7999"
   dependencies:
     chalk "^2.0.1"
     columnify "^1.5.4"
